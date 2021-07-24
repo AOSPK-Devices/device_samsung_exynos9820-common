@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "kernel_samsung_exynos9820",
+    "target_path": "kernel/samsung/exynos9820"
+  },
+  {
+    "remote": "blobs",
+    "repository": "vendor_samsung_exynos9820-common",
+    "target_path": "vendor/samsung/exynos9820-common",
+    "branch": "eleven"
+  }
+]
