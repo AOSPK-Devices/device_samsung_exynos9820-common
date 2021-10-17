@@ -7,6 +7,6 @@
     "remote": "blobs",
     "repository": "vendor_samsung_exynos9820-common",
     "target_path": "vendor/samsung/exynos9820-common",
-    "branch": "eleven"
+    "branch": "twelve"
   }
 ]
